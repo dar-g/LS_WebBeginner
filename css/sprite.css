@@ -1,0 +1,102 @@
+.ico {
+    background-image: url(../images/spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.ico-career1 {
+    width: 83px;
+    height: 71px;
+    background-position: -10px -10px;
+    margin: 0 8px;
+    vertical-align: middle;
+}
+
+.ico-career2 {
+    width: 43px;
+    height: 75px;
+    background-position: -113px -10px;
+    margin: 0 25px;
+    vertical-align: middle;
+}
+
+.ico-checkbox-hover:hover {
+    width: 26px;
+    height: 26px;
+    background-position: -10px -105px;
+}
+
+#inform-sms:checked + label .ico-checkbox-select,
+#inform-call:checked + label .ico-checkbox-select
+ {
+    width: 26px;
+    height: 26px;
+    background-position: -56px -105px;
+}
+
+.ico-checkbox-unselect {
+    width: 26px;
+    height: 26px;
+    background-position: -102px -105px;
+}
+
+.ico-fb {
+    width: 14px;
+    height: 30px;
+    background-position: -176px -10px;
+}
+
+.ico-fb:hover {
+    width: 14px;
+    height: 30px;
+    background-position: -176px -60px;
+}
+
+
+.ico-icon-about {
+    width: 17px;
+    height: 17px;
+    background-position: -148px -110px;
+}
+
+.ico-icon-career {
+    width: 18px;
+    height: 17px;
+    background-position: -148px -147px;
+}
+
+.ico-icon-contact {
+    width: 29px;
+    height: 15px;
+    background-position: -210px -10px;
+}
+
+.ico-location {
+    width: 13px;
+    height: 18px;
+    background-position: -210px -45px;
+}
+
+.ico-twit {
+    width: 36px;
+    height: 25px;
+    background-position: -186px -110px;
+}
+
+.ico-twit:hover {
+    width: 36px;
+    height: 25px;
+    background-position: -10px -155px;
+}
+
+.ico-vk {
+    width: 23px;
+    height: 28px;
+    background-position: -66px -155px;
+}
+
+.ico-vk:hover {
+    width: 23px;
+    height: 28px;
+    background-position: -186px -155px;
+}
